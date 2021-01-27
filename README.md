@@ -1,1 +1,54 @@
 # owasp-framework
+## Overview
+  - Requirements Gathering
+  - Threat Modeling
+  - Source Code Review
+  - Vulnerability Testing
+    - Software Component Analysis (SCA)
+  - Defect Tracking
+  - Defensive Controls
+  - Training and Awareness
+  - Knowledge Management
+
+## OWASP Projects
+  - ### Requirements Gathering
+    - SecurityRAT
+    - Security Knowledge Framework (SKF)
+  - ### Threat Modeling
+    - Threat Dragon
+    - pytm
+  - ### Source Code Review
+    - Code Review Guide
+    - Risk Assesment Framework
+  - ### Vulnerability Testing
+    - ## Software Component Analysis (SCA)
+      - Dependency Track
+      - Dependency Check
+    - Web Testing Guide
+    - Mobile Testing Guide
+    - API Top 10
+    - ZAP
+  - ### Defect Tracking
+    - Defect Dojo
+  - ### Defensive Controls
+    - ModSecurity Core Rule Set
+    - CSRFGuard
+  - ### Training and Awareness
+    - Application Security Verfication Standard (ASVS)
+    - Security Knowledge Framework (SKF)
+    - Snakes and Ladders
+    - Cornucopia
+  - ### Knowledge Management
+    - #### Training
+      - Multilldae
+      - Webgoat
+      - Security Shepherd
+      - Juice Shop
+      - DevSlop
+      - PIXI
+    - #### Awareness
+      - Web App Top 10
+      - Mobile Top 10
+      - Proactive Controls
+      - Automated Threats to Web Apps
+      - Top 10 Privacy Risks
